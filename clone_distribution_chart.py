@@ -99,7 +99,7 @@ localhost = '127.0.0.1'
 ssh_username = 'username' ###username for ssh connection
 ssh_password = 'password' ###password for ssh connection
 port = 22 ###default ssh port is 22, yours may be different
-#ssh_private_key = '/path/to/key.pem'
+#ssh_private_key = '/path/to/key.pem' #if you do not need an ssh key, skip this
 
 # database variables
 user='username'
