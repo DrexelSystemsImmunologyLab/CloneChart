@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  5 14:20:09 2019
 
-@author: thsia
+@author: thsiao17
 
 This script takes in 2 arguments: The metadata label for the y-axis and the metadata label for the x-axis.
 Please enter the labels exactly as they appear in the database (they are case sensitive).
