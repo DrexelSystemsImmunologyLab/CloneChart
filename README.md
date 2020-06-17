@@ -2,7 +2,7 @@
 
 # Clone Distribution Chart
 
-> This script will generate a clone distribution chart for any dataset made with ImmuneDB.
+> This script will generate a clone distribution chart for any database made with ImmuneDB.
 
 > The initial goal for anyone just getting their hands on repertoire data is to understand the dataset. This script will generate a graph that gives an overview of how many clones there are per subject, and how those clones are divided among metadata.
 
