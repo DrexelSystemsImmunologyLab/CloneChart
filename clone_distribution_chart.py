@@ -48,7 +48,7 @@ Example:
 If you want to see which metadata labels are available for your dataset, do the following:
     1. Fill out the database connection info.
     2. Uncomment lines 143-149.
-    3. Run lines 97-149.
+    3. Run lines 20-28 and lines 97-149.
            
 """
 
