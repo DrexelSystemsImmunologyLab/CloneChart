@@ -1,8 +1,4 @@
-<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="200" height="200"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="400" height="100"></a>
 
 # Clone Distribution Chart
 
