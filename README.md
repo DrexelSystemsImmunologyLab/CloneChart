@@ -1,4 +1,4 @@
-<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="400" height="100"></a>
+<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="150" height="150"></a>
 
 # Clone Distribution Chart
 
