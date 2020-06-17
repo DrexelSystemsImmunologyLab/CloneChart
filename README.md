@@ -1,4 +1,4 @@
-<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="350" height="250"></a>
+<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/simlablogo.JPG" title="SIM Lab" alt="SIM Lab" width="400" height="250"></a>
 
 # Clone Distribution Chart
 
@@ -12,8 +12,8 @@
 
 # Example 1
 
-<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/example_dataset.JPG"</a>
+<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/example_dataset.JPG"></a>
 
 # Example 2
 
-<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/influenza_example.JPG"</a>
+<img src="https://github.com/DrexelSystemsImmunologyLab/CloneChart/blob/master/readme_images/influenza_example.JPG"></a>
